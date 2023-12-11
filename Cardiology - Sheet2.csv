@@ -1,0 +1,24 @@
+Code,Code meaning,Code frequency
+Access,"Explicit statements about access to care, including ease or difficulty of access",17
+Care team,"Explicit mentions of the care team, including medical staff not limited to MD cardiologists",19
+Concern about technology,Statements expressing concern about technology,13
+Competence/quality,"Statements referring to the competence of staff and providers, or quality of the service",34
+Convenience,Statements that refer to convenience in any way,29
+Information deficit,"Statements that include information that is erroneous, or which express a lack of information about a service",31
+Face to face,Statements that explicitely mention face-to-face (or IP) interaction or its absence,47
+Personalized communication,References to communication and care being personalized and tailored to the participant,20
+Rapport,Statements that pertain to rapport with the providers or care team,27
+Time demands,Explicit references to time as a limited resource,26
+Travel,Explicit references to travel as a feature of care,32
+Valence Categories,,
+Positive IP,Presence of positive attitude toward IP cardiology,55
+Positive TC,Presence of positive attitude toward TC,72
+Negative IP,Presence of negative attitude toward IP cardiology,2
+Negative TC,Presence of negative attitude toward TC,55
+Composite Codes,,
+Positive quality,Remarks about quality with positive valence,30
+Negative quality,Remarks about quality with negative valence,6
+Positive rapport,Remarks about rapport with positive valence,25
+Negative rapport,Remarks about rapport with negative valence,3
+Positive care team,Remarks about care team with positive valence,18
+Negative care team,Remarks about care team with negative valence,2
